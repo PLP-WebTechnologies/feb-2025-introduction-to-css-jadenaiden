@@ -1,0 +1,27 @@
+body {
+    background-color: darkkhaki;
+    padding: 40px;
+    border: 10px solid red;
+}
+
+.img {
+    border-style: solid;
+    border-radius: 100%;
+}
+
+table,
+th,
+tr,
+td {
+    border-style: solid;
+    border-collapse: collapse;
+    font-style: italic;
+}
+
+#three {
+    margin-top: 40px;
+}
+
+.one {
+    margin-bottom: 40px;
+}
